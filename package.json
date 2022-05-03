@@ -1,0 +1,14 @@
+{
+  "name": "introduccionbackend",
+  "version": "1.1.0",
+  "main": "introduccionBackend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTTP"
+  ],
+  "author": "FIDEL DE LA ROCHA CARAVEO",
+  "license": "ISC",
+  "description": ""
+}
