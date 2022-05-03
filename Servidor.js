@@ -33,6 +33,8 @@ var mimeTypes={
 
 };
 
+contentType = mimeTypes[extname]||'application/octet-stream';
+
 fs.readFile(filePath,function(error,content){
     if(error)
     {
